@@ -1,0 +1,32 @@
+На втором уроке мы уже насторили его и начали уже писать код и вычисляли с помощью "-";"+";"*';"/"; и изучали классы
+
+# name = "Tom"
+# Name = "John"
+# print(name)
+
+
+# r = 10
+# Pi= 3.14
+# area = 2 * Pi * r * r
+# print(area)
+
+# name = input('name')
+# surname = input('surname')
+# fullname = (name + " " + surname)
+# print("Hello",fullname)
+
+# c=int(input("enter the celcium:"))
+# F=(9/5)*c+32
+# print(F)
+
+# name='nary'
+# age=20
+# age=float(age)
+# print(type(age))
+name='nary'
+age=20
+age=float(age)
+age=str(age)
+age=20
+print(type(age))
+ 
